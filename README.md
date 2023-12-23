@@ -3,7 +3,7 @@
 
 
 
-*- John Carmack*
+
 <div id="header" align="center">
 </div>
 <br/>
@@ -28,18 +28,24 @@
 - ⚡ Fun fact: I love to draw and play guitar
 - 😻 Check out the projects I have contributed: [Github](https://github.com/CODE-SAMRAT)
 
-### Connect with me:
+<h1></h1>
 
-<h4 align="center" text="blue">If you want to set off and go develop some grand new thing, you don’t need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.</h4>
+
+#### If you want to set off and go develop some grand new thing, you don’t need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it. ####
+<h5 align="right">- John Carmack</h5>
+<h1></h1>
+
+
+
+<br/>
+
+<h1></h1>
+<h1 align="center">Passionate coder, lifelong learner, and tech enthusiast | Turning lines of code into meaningful experiences | Building a digital world, one commit at a time 🚀</h1>
+
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="300"/>
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="300"/>
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="300"/></div>
-
-
-
-
-<h3 align="center">Passionate coder, lifelong learner, and tech enthusiast | Turning lines of code into meaningful experiences | Building a digital world, one commit at a time 🚀</h3>
-
+<h1></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-samrat&label=Profile%20views&color=0e75b6&style=flat" alt="code-samrat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-samrat" alt="code-samrat" /></a> </p>
