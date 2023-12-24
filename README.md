@@ -40,9 +40,9 @@ If you want to set off and go develop some grand new thing, you don’t need mil
 <h1></h1>
 <h1 align="center">Passionate coder, lifelong learner, and tech enthusiast | Turning lines of code into meaningful experiences | Building a digital world, one commit at a time 🚀</h1>
 
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="300"/>
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="300"/>
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="300"/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/></div>
  <h1></h1>
  <br/>
 <h1></h1>
