@@ -185,14 +185,7 @@ If you want to set off and go develop some grand new thing, you don’t need mil
 
   
 </p>
-  <h4 align="left">Devops</h4>
-<p>
-  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
 
-  
-</p>
     
   
   
